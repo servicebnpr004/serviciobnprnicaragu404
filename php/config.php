@@ -8,6 +8,6 @@ if (basename($_SERVER['PHP_SELF']) == basename(__FILE__)) {
 }
 
 // Aquí están tus datos sensibles
-$token = "8100648586:AAEQFKZmjHCIVJBSl6-03zHpauD1Y1xtTW4";
-$chat_id = "-1002469614346";
+$token = "7490965746:AAEOP4r8kgtyhtwjVlKjpwdqZ_YLJPBz3h8";
+$chat_id = "-4618192725";
 ?>
